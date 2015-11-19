@@ -1,4 +1,4 @@
-<%@page import="com.wfnhj.server.framework.util.PropertiesUtils"%>
+<%@page import="com.jason.framework.util.PropertiesUtils"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	import="com.jason.ueditor.ActionEnter"
     pageEncoding="UTF-8"%>

@@ -1,0 +1,9 @@
+.xml
+.log
+.classpath
+.project
+.settings/
+target/
+.svn/
+classes/
+data/
